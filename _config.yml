@@ -3,9 +3,10 @@ title: Du Nguyen
 email: dunguyen90@gmail.com
 description: The webpage of Du Nguyen. Hosted on Github Pages
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://dunguyen.dk/" # the base hostname & protocol for your site
-images_folder: "http://dunguyen.dk/images/"
-assets_folder: "http://dunguyen.dk/assets/"
+url: "https://dunguyen.dk/" # the base hostname & protocol for your site
+images_folder: "https://dunguyen.dk/images/"
+assets_folder: "https://dunguyen.dk/assets/"
+enforce_ssl: "www.dunguyen.dk"
 twitter_username: dunguyen90
 github_username:  dunguyen
 name: Du Nguyen
