@@ -7,7 +7,7 @@ summary: "Book review of Discourses and Selected Writings by Epictetus."
 ---
 Originally published on [Goodreads](https://www.goodreads.com/review/show/1124722341)
 
-#Discourses and Selected Writings
+# Discourses and Selected Writings
 The Discourses are a series of 5 books of which only 4 exists today by a student of Epictetus who has written down the teachings and philosophy of Epictetus.
 Epictetus are one of the most prominent philosophers of stoicism and was born a slave. While being a slave he was permitted to attend lectures which led him to become a stoic. When he was freed he went to Greece and opened a philosophy school.
 

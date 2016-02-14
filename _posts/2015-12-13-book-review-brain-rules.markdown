@@ -7,7 +7,7 @@ summary: "Book review of Brain Rules: 12 Principles for Surviving and Thriving a
 ---
 Originally published on [Goodreads](https://www.goodreads.com/review/show/1119344214)
 
-#Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School
+# Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School
 Brain Rules by John Medina is a book covering the brain. The focus of the book is on how you can improve your life based on what science has learned about the brain. Medina covers 12 principles which are 12 tips for how to improve your mental performance.
 
 I quite like this book in that it covers nicely some actionable steps to improving mental performance. It makes each chapter self-contained and the way Medina writes, has inspired me to makes changes to my own life. The writing style is quite easy to follow and Medina takes a much personal style as well in telling stories about himself and how some of these principles apply to his own life. Each chapter ends with how each principle could be applied to school and work which I quite like but feels a bit malplaced.

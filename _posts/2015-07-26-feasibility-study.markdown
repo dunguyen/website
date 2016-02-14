@@ -9,7 +9,7 @@ This report was written before my thesis to study the uses of physiological meas
 
 The full title is: **The use of physiological measurements to assess user involvement in computer games**
 
-##Summary
+## Summary
 
 I study how physiological measures can be used to improve user experience in computer games. For this I find that playing a computer game can be combined with the theory of flow, coined by Mihaly Csikzentmihalyi. The theory of flow states that when a person is in flow, they lose track of time and is completely absorbed in the task at hand. To keep a gamer in the flow state, a tool called dynamic difficulty adjustment can be used. Dynamic Difficulty Adjustment (DDA) adjusts the game difficulty dynamically by evaluating the player performance. The idea is to adjust the difficulty by using the emotional state of the player.
 

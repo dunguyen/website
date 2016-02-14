@@ -7,7 +7,7 @@ summary: "Book review of How to Write a Sentence and How to Read One by Stanley 
 ---
 Originally published on [Goodreads](https://www.goodreads.com/review/show/1119236944)
 
-#How to Write a Sentence and How to Read One
+# How to Write a Sentence and How to Read One
 How to write a sentence and how to read one by Stanley Fish is a book tasked with the formidable task to teach the reader how to write and read sentences.
 Fish tries in this book to explain the basic components of a sentence and show how there are certain forms that can be combined and modified in near-infinite ways.
 

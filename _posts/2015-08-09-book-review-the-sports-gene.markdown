@@ -7,7 +7,7 @@ summary: "Book review of The Sports Gene: Inside the Science of Extraordinary At
 ---
 Originally published on [Goodreads](https://www.goodreads.com/review/show/1106182423)
 
-#The Sports Gene: Inside the Science of Extraordinary Athletic Performance
+# The Sports Gene: Inside the Science of Extraordinary Athletic Performance
 In The Sports Gene David Epstein tackles the world of sports and the age old question of nature vs. nurture. The nature vs. nurture debate is of course whether our success here in life is predestined by your genes or whether it is down to the habits, training and environment that you are exposed to.
 David Epstein has found many interesting cases that might suggest either nature or nurture and you will during the book get a lot of knowledge of genetics, sports, sports history and the incredible tales of some talented athletes.
 

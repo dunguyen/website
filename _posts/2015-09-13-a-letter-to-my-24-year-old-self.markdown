@@ -7,7 +7,7 @@ summary: "A retrospective."
 ---
 Originally published on [Medium](https://medium.com/@dunguyen/a-letter-to-my-24-year-old-self-73afc575636c)
 
-#A letter to my 24-year old self
+# A letter to my 24-year old self
 Don’t be alarmed! This is real enough. I am writing to you, me, from the future to share some good advice now that you are turning 24 years old.
 
 First of all, I have no idea how this works. I am only able to send this letter to you on this day — my or, well, our birthday. I am not able to fully specify anything particular event happening so unfortunately I cannot send you the lottery numbers or all of the sports results in the coming year. No pictures allowed either unless it is something that were taken before we became 24 years old. But I seem to be able to give you some advice. Something I wished I knew when I was 24 or rather something I needed to hear when I was your age.

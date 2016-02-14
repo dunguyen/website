@@ -7,7 +7,7 @@ summary: "Book review of How to Win Friends and Influence People by Dale Carnegi
 ---
 Originally published on [Goodreads](https://www.goodreads.com/review/show/1119329453)
 
-#How to Win Friends and Influence People
+# How to Win Friends and Influence People
 An excellent book and the precursor to self-help books. Dale Carnegie's book is filled to the brim with great tips and advice to become a person with better interpersonal skills.
 
 The book itself is easily read and Carnegie favors clarity to tell what you should do to become more liked but also why. The strength of the book is clearly in the many examples and anecdotes of people who have used the advice to great effect.

@@ -7,7 +7,7 @@ summary: "Book review of The New New Thing: A Silicon Valley Story by Michael Le
 ---
 Originally published on [Goodreads](https://www.goodreads.com/review/show/1118914392)
 
-#The New New Thing: A Silicon Valley Story
+# The New New Thing: A Silicon Valley Story
 The New New Thing by Michael Lewis is Lewis' take on Silicon Valley in the time around the end of the millennium. Lewis briefly explains the development of Silicon Valley but the book is mostly about one person, Jim Clark, and the book focuses on the story of Jim Clark. Jim Clark is the founder of Silicon Graphics, Netscape and Healtheon. All of these companies were billion dollar companies and Lewis tries to explain what drives a man to create three billion dollar companies and the changes that these companies brought to Silicon Valley.
 
 I quite like some aspects of this book. What I found interesting was how the transition of Silicon Valley as a place for production of computers and electronics to a place of software and innovation was described. I particularly liked the analysis of how innovation in software changed how venture capitalists would work.

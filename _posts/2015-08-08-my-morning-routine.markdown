@@ -7,7 +7,7 @@ summary: "And why I find them important."
 ---
 Originally published on [Medium](https://medium.com/@dunguyen/morning-routines-4966d72c77d4)
 
-#My morning routine
+# My morning routine
 And why I find them important.
 
 After many years of early waking and tinkering with many different morning routines I have found my (almost) perfect morning routine. These are the steps I take:
@@ -24,13 +24,13 @@ After many years of early waking and tinkering with many different morning routi
 - I catch up with events on [Facebook](https://www.facebook.com/) as well.
 These are the steps I use at the moment and which I have used for the last year. The steps can be divided into two broad categories: waking and planning.
 
-##Waking up
+## Waking up
 A crucial part of my productive morning routine is actually waking up. I ensure this by doing several things. My LIFX light bulb is set to blast the harshest white light out in the room at 6 which means that even if my eyes are closed, they should still be affected by the light. The theory here is that the light helps inhibit the release of melatonin which makes us sleepy.
 
 Another part of waking up is simply moving out of the bed. Luckily for me, it is not a problem but to ensure that I do not fall back into bed, I quickly make my bed and draw the curtains. It works as a signal for myself that now the day has begun.
 
 
-##Planning
+## Planning
 
 The second part of my morning routine is simply planning out my day on my computer. I usually begin with writing an entry in my journal on how I am feeling that morning, what my goals of the day are, and what I want to improve about myself. To make sure that it is actually useful, I have set a 250 word minimum limit that I want to reach. This works really well for me as it sets the tone for my day.
 

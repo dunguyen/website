@@ -7,7 +7,7 @@ summary: "Book review of Into Thin Air: A Personal Account of the Mount Everest 
 ---
 Originally published on [Goodreads](https://www.goodreads.com/review/show/1131719020)
 
-#Into Thin Air: A Personal Account of the Mount Everest Disaster
+# Into Thin Air: A Personal Account of the Mount Everest Disaster
 Into Thin Air is Jon Krakauer's personal account of the 1996 Mount Everest disaster where a sudden blizzard would kill 8 people. Until that date it was the deadliest day on Mount Everest.
 
 Krakauer writes from his own perspective and admits that some details of the book may be wrong because of the lack of oxygen and bad memory. Nonetheless Krakauer recounts the story as well as he can by tying together interviews of other survivors, transmission logs and his own memories. The result is an extremely well-written book that captures the emotion that the climbers must have felt on top of the mountain.

@@ -7,7 +7,7 @@ summary: "Book review of Vagabonding: An Uncommon Guide to the Art of Long-Term 
 ---
 Originally published on [Goodreads](https://www.goodreads.com/review/show/1119332828)
 
-#Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
+# Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
 Vagabonding is Rolf Potts' take on long term travel. It is very important to note that it is not a guide to travel but rather a very long essay on how to lead a nomad life.
 
 I particularly liked the parts of the book where Potts describe long term travel and what it means to be vagabonding. These parts are the most useful of the book and is a get resource when traveling.

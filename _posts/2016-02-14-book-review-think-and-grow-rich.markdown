@@ -7,7 +7,7 @@ summary: "Book review of Think and Grow Rich by Napoleon Hill"
 ---
 Originally published on [Goodreads](https://www.goodreads.com/review/show/1119318867)
 
-#Think and Grow Rich
+# Think and Grow Rich
 Think and Grow Rich by Napoleon Hill is said to have spawned the multitude of self-help books since its release in 1937. In Think and Grow Rich, Hill tries to deconstruct how people get rich. The book is a result of over 20 years of studying and interviewing the richest and most successful people in his time.
 
 The book itself is a nice read. Hill writes in a mostly simple language which keeps the reader nicely along the points he is trying to make. There's also some few very valuable advice in the book. Principles such as controlling your mind and persisting in your goals are good advice which seems to have been validated over and over again in the course of history.

@@ -7,7 +7,7 @@ summary: "Book review of Focus: The Hidden Driver of Excellence by Daniel Golema
 ---
 Originally published on [Goodreads](https://www.goodreads.com/review/show/1043080347)
 
-#Focus: The Hidden Driver of Excellence
+# Focus: The Hidden Driver of Excellence
 An interesting book that covers a variety of interesting studies on cognitive science. The problem is really that it is scarcely about focus.
 
 Daniel Goleman spends perhaps the first few chapters on focus before then ironically writing about everything from ecological problems and problems in the workplace.

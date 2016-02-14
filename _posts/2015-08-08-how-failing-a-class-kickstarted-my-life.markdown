@@ -7,7 +7,7 @@ summary: "I have always been good in school. Or so I thought until the moment I 
 ---
 Originally published on [Medium](https://medium.com/@dunguyen/how-failing-a-class-kickstarted-my-life-466c06b57dce)
 
-#How failing a class kickstarted my life
+# How failing a class kickstarted my life
 I have always been good in school. Or so I thought until the moment I stared my professor in the eyes and he told me that he would be failing me. The result: prolonging my bachelors with another semester and feeling like a failure. But in retrospect: it might just have been the turning point of my life.
 
 

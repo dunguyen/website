@@ -7,7 +7,7 @@ summary: "Book review of Meditations by Marcus Aurelius."
 ---
 Originally published on [Goodreads](https://www.goodreads.com/review/show/1094772442)
 
-#Meditations
+# Meditations
 First of all I read the Gregory Hays translation which I think was pretty good and fairly easy to read.
 
 Meditations is a book written by Marcus Aurelius who was the emperor of the Roman Empire from 161 A.D. to 180 A.D. As a Roman Emperor who presided the Roman Empire when it was still strong he has had some unique insight to life and we can consider ourselves lucky to even have this work of his as it was written by him and most likely for himself too.

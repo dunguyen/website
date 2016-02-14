@@ -7,7 +7,7 @@ summary: "Book review of Delivering Happiness: A Path to Profits, Passion, and P
 ---
 Originally published on [Goodreads](https://www.goodreads.com/review/show/1119350659)
 
-#Delivering Happiness: A Path to Profits, Passion, and Purpose
+# Delivering Happiness: A Path to Profits, Passion, and Purpose
 Delivering Happiness from Tony Hsieh is the story of Hsieh and Zappos. For the uninitiated Zappos is an online retailer specializing in shoes.
 
 In Delivering Happiness Hsieh tells the story of himself and how he helped fund Zappos and later joined. The first third of the book is a very enjoyable read about him and his story from childhood until Zappos. The rest is about Zappos and the culture they have built.

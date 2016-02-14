@@ -7,10 +7,10 @@ summary: "Some impressions about the startup world from an insider."
 ---
 Originally published on [Medium](https://medium.com/easysize-guests-wall/why-work-at-startups-305425d14b39)
 
-#Why work at startups
+# Why work at startups
 Since September 2014 I have lived and worked in the startup world — first at [Copy Me That](http://www.copymethat.com/) and later at [EasySize](http://www.easysize.me/). During this time there has been ups and down but it has been an incredible learning experience as well. I want to tell about my preconceived ideas, what you can learn at a startup and what I learned about myself.
 
-##Preconceived ideas
+## Preconceived ideas
 Before working at startups I had preconceived ideas of what it meant to work in the startup world. Here’s what I thought:
 
 - **Long, long working hours**. While this is true, it is also very possible to maintain a work-life balance that won’t cause you to burn out. In fact, I work normal hours and while I might put in some long shifts, it is not really that different from most other places.
@@ -18,7 +18,7 @@ Before working at startups I had preconceived ideas of what it meant to work in 
 - **Huge risks**. I thought that working in a startup would pose as a huge risk. The risk is because if the startup fails (and to be honest, [most startups fail](http://fortune.com/2014/09/25/why-startups-fail-according-to-their-founders/)) then it would look like you wasted time not getting promotions and such. I feared that spending time in a startup would hurt my resume and essentially making me less hireable in the future. Looking back, however, I actually think that it is the opposite case. You gain so much more from working in a startup, that I do not believe you can find anywhere else. Besides, what is life without a little bit of risk once and a while?
 Even though I feared it a bit, I still took a chance and went to work for a startup. And it was really not as bad as I feared. The pay was alright, the working hours were very normal and I actually think, that having startups on my resume really improved it and actually made me much more attractive in the job market. Besides dispelling my fears, I soon discovered why people actually start startups and work at startups.
 
-##What to learn at a startup
+## What to learn at a startup
 There is a great opportunity for personal growth and these are some things you can expect working at a startup:
 
 - **Becoming more agile and flexible**. Working in a startup means that you are closer to the users. At Copy Me That we regularly received emails from users with feedback and which meant, that we could quickly change the service and increase the user satisfaction. Once, a competitor to Copy Me That was closing and in about 24 hours we created a script that could import their recipes into our systems. I doubt a large corporation could react quickly enough for such an event! Startups, due to their closer relationship to their users, have a much faster feedback loop and that means being flexible enough to quickly change direction.
@@ -26,7 +26,7 @@ There is a great opportunity for personal growth and these are some things you c
 - **Ownership of the product**. Since there are fewer people for each task it also means that whenever you ship a feature, you will most likely have made most of it yourself. Knowing that you personally make a huge difference is really motivating and gives you plenty of reasons to wake up each morning.
 Learn a lot. This is of course debatable because it also applies outside startups. At startups, you often have to wear multiple hats which allows you to learn a lot of things you didn’t expect to learn (or need). At Copy Me That I was essentially a fullstack developer and learned a lot of [frontend](http://en.wikipedia.org/wiki/Front_and_back_ends) programming that I wouldn’t have otherwise. At EasySize I had to do the work of a [DevOps](http://en.wikipedia.org/wiki/DevOps). By working at startups I have learned technologies that I would not have learned otherwise.
 
-##Personal reflections
+## Personal reflections
 Coming into the startup world with an open mind I also learned a lot about myself. Here are a few examples:
 
 - **Taking the initiative is a good thing**. I was encouraged to take the initiative and act independently. Taking initiative in this context means trying out a lot of approaches, researching alternatives and generally becoming more independent instead of having someone telling you exactly what to do.

@@ -9,7 +9,7 @@ This is the thesis I worked on from September 2013 to February 2014.
 
 The title is **Improving game experience using dynamic difficulty adjustment based on physiological signals**
 
-##Summary
+## Summary
 
 The goal of this thesis is to investigate whether dynamic difficulty adjustment (DDA) based on emotions is better than DDA based on a player''s performance. DDA is a technique in computer games to change the difficulty of the game so that it meets a certain criteria. For the "emotion-based" DDA the goal is to keep the player in a state of Flow which was coined by Csikzentmihalyi. For the "performance-based" DDA the goal is to keep the player performing well without dying.
 
