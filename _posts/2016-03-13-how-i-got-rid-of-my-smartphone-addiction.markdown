@@ -41,10 +41,6 @@ As an unexpected bonus, I discovered how buying a new, faster and bigger phone w
 
 The new features of the cursory glance on a phone really helped me as well. Now instead of unlocking your phone and having full access I would get the information that I needed on the lock screen without having the temptation to check Facebook, Twitter, Instagram or something else. Now I can glance and see the gist of an email, and decide to answer it now or later.
 
-Timeboxing — putting in dedicated timeboxes to check your phone will make you put off the random checking into a more structured way of interacting with your phone. I didn’t like the rigidity of it but for some people it helps.
-
-Dumb phone — some people decide to just get a dumb phone that only calls and receive sms’es. This will ensure that you cannot be tempted by facebook and other apps because they are just not available. This was not an option for me as I use facebook and emails for communication and very rarely calling or texting.
-
 Now these are not the only ways to do it. Other people have written a lot about this and some things they suggest are:
 Timeboxing — putting in dedicated timeboxes to check your phone will make you put off the random checking into a more structured way of interacting with your phone. I didn’t like the rigidity of it but for some people it helps.
 
