@@ -14,5 +14,4 @@ Holiday's writing is clear and precise and he makes no attempt to try and glorif
 
 I highly recommend this book. I already had a low view of media but this book has only reinforced it and made me more adamant to keep news out of my life. Give it a read, you might feel the same way.
 
-
 5 out of 5 stars.
