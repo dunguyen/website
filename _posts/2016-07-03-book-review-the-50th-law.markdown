@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BOOK REVIEW: The 50th Law
+title:  "BOOK REVIEW: The 50th Law"
 date:   2016-07-03 18:21:00
 categories: [book review, biography, self-help]
 summary: "Book review of The 50th Law by Robert Greene"

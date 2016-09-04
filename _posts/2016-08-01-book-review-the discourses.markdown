@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BOOK REVIEW: The Discourses
+title:  "BOOK REVIEW: The Discourses"
 date:   2016-08-01 21:33:00
 categories: [book review, classics, power]
 summary: "Book review of The Discourses by Machiavelli"

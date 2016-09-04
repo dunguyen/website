@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BOOK REVIEW: Philosophy as a Way of Life
+title:  "BOOK REVIEW: Philosophy as a Way of Life"
 date:   2016-08-12 19:07:00
 categories: [book review, philosophy]
 summary: "Book review of Philosophy as a Way of Life by Pierre Hadot"

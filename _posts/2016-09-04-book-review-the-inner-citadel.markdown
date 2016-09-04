@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BOOK REVIEW: The Inner Citadel
+title:  "BOOK REVIEW: The Inner Citadel"
 date:   2016-09-04 09:51:00
 categories: [book review, philosophy]
 summary: "Book review of The Inner Citadel by Pierre Hadot"

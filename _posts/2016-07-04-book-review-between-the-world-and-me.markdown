@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BOOK REVIEW: Between the World and Me
+title:  "BOOK REVIEW: Between the World and Me"
 date:   2016-07-04 21:03:00
 categories: [book review, biography]
 summary: "Book review of Between the World and Me by Ta-Nehisi Coates"
