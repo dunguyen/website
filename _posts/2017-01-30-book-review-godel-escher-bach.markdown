@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "BOOK REVIEW: Gödel, Escher, Bach: An Eternal Golden Braid"
+date:   2017-01-30 17:47:00
 categories: [book review, nonfiction, artificial intelligence, philosophy]
 summary: "Book review of Gödel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter"
 ---
