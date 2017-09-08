@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BOOK REVIEW: Moon Shot"
-date:   2017-09-08 21:327:00
+date:   2017-09-08 21:27:00
 categories: [book review, non-fiction, space]
 summary: "Book review of Moon Shot by Alan Shepard and Deke Slayton"
 ---
